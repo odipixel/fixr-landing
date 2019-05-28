@@ -1,0 +1,35 @@
+body{
+  font-family: 'Nunito', sans-serif;
+}
+.jumbotron-odi-hero{
+padding: 0rem 0rem;
+ position: relative;
+ max-width: 100%;
+ /*background:url('../img/jelly-jumbotron.jpg') no-repeat center center;*/
+
+}
+.jumbotron-odi-dark{
+ max-width: 100%;
+ padding: 0px;
+ 
+}
+
+.jumbotron-overlay {
+ height:100%;
+ padding: 100px 0;
+ color:#fff;
+ 
+}
+.jumbotron-padding{
+ padding-top: 6rem;
+ 
+}
+
+.btn-circle {
+   border-radius: 30px;
+}
+
+.latest-news {
+ border-bottom: .25rem solid transparent;
+ border-bottom-color: #007bff;
+}

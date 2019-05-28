@@ -1,0 +1,79 @@
+{
+  "name": "Jelly",
+  "version": "1.1.0",
+  "description": "One page HTML landing page in Bootstrap4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "postinstall": "gulp default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odipixel/jellyred.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "kishore.mallick@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odipixel/jellyred/issues"
+  },
+  "homepage": "https://github.com/odipixel/jellyred#readme",
+  "dependencies": {
+    "@babel/core": "^7.4.4",
+    "@fortawesome/fontawesome-free": "^5.8.2",
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.5",
+    "del": "^4.1.1",
+    "express": "^4.17.1",
+    "font-awesome": "4.7.0",
+    "fs": "0.0.1-security",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^4.0.1",
+    "gulp-less": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2",
+    "http": "0.0.0",
+    "jquery": "^3.4.1",
+    "jquery.easing": "^1.4.1",
+    "magnific-popup": "^1.1.0",
+    "path": "^0.12.7",
+    "popper.js": "^1.15.0",
+    "scrollreveal": "3.3.6",
+    "simple-line-icons": "^2.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@fortawesome/fontawesome-free": "^5.8.2",
+    "autoprefixer": "^9.5.1",
+    "browser-sync": "2.18.13",
+    "css-mqpacker": "^7.0.0",
+    "cssnano": "^4.1.10",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-deporder": "^1.1.0",
+    "gulp-header": "^2.0.7",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-newer": "^1.4.0",
+    "gulp-noop": "^1.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-serve": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-terser": "^1.2.0",
+    "gulp-uglify": "3.0.0",
+    "postcss-assets": "^5.0.0"
+  }
+}
