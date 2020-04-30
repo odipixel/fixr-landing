@@ -38,7 +38,7 @@
     "gulp-rename": "^1.4.0",
     "gulp-uglify": "^3.0.2",
     "http": "0.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery.easing": "^1.4.1",
     "magnific-popup": "^1.1.0",
     "path": "^0.12.7",
